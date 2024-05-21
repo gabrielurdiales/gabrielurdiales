@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao perfil de Gabriel🫀
 
-<!--
-**gabrielurdiales/gabrielurdiales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Urdiales
 
-Here are some ideas to get you started:
+Estudo no JB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudo no CCAA
+
+Estudo no MLK
+
+Sou estudante do Alura
+
+### Você pode entrar em contato comigo📫
+00001094237188sp@al.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/e8-36w65OA4AAAAC/ed-truck.gif)
+  
